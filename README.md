@@ -12,7 +12,7 @@ If the model return "True", you will be taken to the dashboard page where you ca
 ## Data
 - thingspeak: temperature, humidity, soil water content, lights sensor
 - raspberrypi: camera v2
-- users face image: locate image in ./data (file_name &rarr; studentid_name.png)
+- users face image: put image in ./data (file_name &rarr; studentid_name.png)
 
 ## Setting
 raspberrypi
